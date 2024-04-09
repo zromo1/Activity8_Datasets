@@ -1,0 +1,6 @@
+Home Type,Below $1000,$1000 - $3000,Above $3000
+Studio,0.24,0.73,0.03
+Apartment,0.12,0.8,0.08
+House - Owned,0.1,0.58,0.32
+House - Rental,0.05,0.68,0.27
+Shared Space,0.72,0.26,0.02
